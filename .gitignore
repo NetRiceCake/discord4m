@@ -1,0 +1,26 @@
+# Compile outputs
+*.class
+target
+target/*
+build
+build/*
+out
+out/*
+META-INF
+META-INF/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Intellij Platforms
+*.iml
+.idea
+.idea/*
+
+# Eclipse Platforms
+.classpath
+.project
+.settings
+.settings/*

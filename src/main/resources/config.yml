@@ -1,0 +1,5 @@
+token: .
+guildId: 0
+channelId: 0
+webHookUrl: .
+messageFormat: <%n> %m
